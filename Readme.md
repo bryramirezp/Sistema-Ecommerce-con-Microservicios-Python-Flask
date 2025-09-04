@@ -4,18 +4,20 @@ Este proyecto es una implementación de un sistema de comercio electrónico para
 
 ## Demostración Visual
 
+## Demostración Visual
+
 ### 🖥️ Interfaz Principal
-<img src="https://github.com/bryramirezp/Sistema-Ecommerce-con-Microservicios-Python-Flask/blob/main/Verificaci%C3%B3n%20en%20la%20Base%20de%20Datos.png?raw=1" alt="Interfaz principal de la joyería" width="100%">
+<img src="https://github.com/bryramirezp/Sistema-Ecommerce-con-Microservicios-Python-Flask/blob/main/interfaz_principal.png?raw=1" alt="Interfaz principal de la joyería" width="100%">
 
 ---
 
 ### 📄 Factura Generada
-<img src="https://github.com/bryramirezp/Sistema-Ecommerce-con-Microservicios-Python-Flask/blob/main/Resultado%20Final%20-%20Factura%20Generada.png?raw=1" alt="Factura generada en la interfaz" width="100%">
+<img src="https://github.com/bryramirezp/Sistema-Ecommerce-con-Microservicios-Python-Flask/blob/main/factura_generada.png?raw=1" alt="Factura generada en la interfaz" width="100%">
 
 ---
 
 ### 🗄️ Verificación en Base de Datos
-<img src="https://github.com/bryramirezp/Sistema-Ecommerce-con-Microservicios-Python-Flask/blob/main/Verificaci%C3%B3n%20en%20la%20Base%20de%20Datos.png?raw=1" alt="Consulta a la base de datos mostrando la última factura" width="100%">
+<img src="https://github.com/bryramirezp/Sistema-Ecommerce-con-Microservicios-Python-Flask/blob/main/verificacion_db.png?raw=1" alt="Consulta a la base de datos mostrando la última factura" width="100%">
 
 ## 🚀 Arquitectura
 

@@ -4,8 +4,6 @@ Este proyecto es una implementación de un sistema de comercio electrónico para
 
 ## Demostración Visual
 
-## Demostración Visual
-
 ### 🖥️ Interfaz Principal
 <img src="https://github.com/bryramirezp/Sistema-Ecommerce-con-Microservicios-Python-Flask/blob/main/interfaz_principal.png?raw=1" alt="Interfaz principal de la joyería" width="100%">
 
